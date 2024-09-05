@@ -1,5 +1,5 @@
-def do_add(print("Hello Termux!"));
-
+def do_add(a):
+return float(a), print("HW")
 cmds = {
   'ADD': do_add;
 }
